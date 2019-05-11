@@ -1,0 +1,217 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1358.15 1224.03">
+  <defs>
+    <style>
+        .cls-1,
+.cls-10,
+.cls-11,
+.cls-12,
+.cls-13,
+.cls-14,
+.cls-4,
+.cls-6,
+.cls-7,
+.cls-8,
+.cls-9 {
+  fill: none;
+}
+
+.cls-1,
+.cls-10,
+.cls-11,
+.cls-12,
+.cls-13,
+.cls-15,
+.cls-2,
+.cls-3,
+.cls-4,
+.cls-5,
+.cls-6,
+.cls-7,
+.cls-8,
+.cls-9 {
+  stroke: #060305;
+}
+
+.cls-1,
+.cls-10,
+.cls-11,
+.cls-12,
+.cls-13,
+.cls-14,
+.cls-15,
+.cls-2,
+.cls-3,
+.cls-4,
+.cls-5,
+.cls-6,
+.cls-7,
+.cls-8,
+.cls-9 {
+  stroke-miterlimit: 10;
+}
+
+.cls-1 {
+  stroke-width: 2.8px;
+}
+
+.cls-2 {
+  position: absolute;
+}
+
+.cls-2,
+.cls-3,
+.cls-5 {
+  stroke-width: 4px;
+}
+<!-- /* baggrundsfarve på overskriftsboxen */ -->
+.cls-3 {
+  cursor: pointer;
+  z-index: 100;
+  fill: #d4d4d4;
+
+}
+
+.cls-4 {
+  stroke-width: 3.4px;
+}
+<!-- /* baggrundsfarven på infoboxen */ -->
+.cls-5 {
+  fill: #708C64;
+}
+<!-- /* connetionlinen */ -->
+.cls-6 {
+  stroke-width: 3.78px;
+}
+
+.cls-7 {
+  stroke-width: 3.42px;
+}
+
+.cls-8 {
+  stroke-width: 4.04px;
+}
+
+.cls-9 {
+  stroke-width: 3.97px;
+}
+
+.cls-10 {
+  stroke-width: 3.55px;
+}
+
+.cls-11 {
+  stroke-width: 4.5px;
+}
+
+.cls-12 {
+  stroke-width: 4.43px;
+}
+
+.cls-13 {
+  stroke-width: 3.98px;
+}
+/* vertical timeline */
+.cls-14 {
+  stroke: #2f0d00;
+  stroke-width: 9px;
+}
+<!-- /* bullets på timeline */ -->
+.cls-15 {
+  fill: #f8f5f6;
+  stroke-width: 2.03px;
+}
+<!-- /* overskriften, font, size og stroke  */ -->
+.cls-16 {
+  font-size: 18.29px;
+  fill: #f8f5f6;
+  font-family: MyriadPro-Regular, Myriad Pro;
+}
+    </style>
+  </defs>
+  <title>timeline-linear-01</title>
+  <g id="emne-1">
+    <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5" d="M256.69,109.47h238v99a14.43,14.43,0,0,1-14.43,14.43H271.12a14.43,14.43,0,0,1-14.43-14.43v-99Z"/>
+    <path id="overskrift" class="HTML_placeholder cls-3"  d="M263.79,68.1H487.58a8.6,8.6,0,0,1,8.59,8.59h0v31.1H255.22V76.69A8.58,8.58,0,0,1,263.79,68.1Z"/>
+    <g id="connection-line1">
+      <polyline class="cls-1" points="651.17 161.16 571.27 83.37 496.17 76.69"/>
+    </g>
+  </g>
+  <g id="emne-2">
+    <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5" d="M974.36,159.06h238.11v99A14.44,14.44,0,0,1,1198,272.4H988.79A14.43,14.43,0,0,1,974.36,258h0V159.06Z"/>
+    <path id="overskrift" data-name="overskrift" class="HTML_placeholder cls-3" d="M981.53,118.4H1205.3a8.6,8.6,0,0,1,8.59,8.59v31.1h-241V127A8.6,8.6,0,0,1,981.53,118.4Z"/>
+    <g id="connection-line2">
+      <polyline class="cls-4" points="662.24 259.95 824.99 153.96 972.94 142.33"/>
+    </g>
+  </g>
+  <g id="emne-3">
+    <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5" d="M172.93,320H411v99a14.43,14.43,0,0,1-14.43,14.42H187.36A14.43,14.43,0,0,1,172.93,419V320Z"/>
+    <path id="overskrift" data-name="overskrift" class="HTML_placeholder cls-3" d="M180.1,278.21H403.87a8.6,8.6,0,0,1,8.59,8.59h0v31.1H171.51V286.8A8.6,8.6,0,0,1,180.1,278.21Z"/>
+    <g id="connection-line3">
+      <polyline class="cls-6" points="657.51 364.45 571 298.06 412.46 298.06"/>
+    </g>
+  </g>
+  <g id="emne-4">
+    <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5"  d="M811.42,351.29h240.94v98.87a14.52,14.52,0,0,1-14.52,14.52H825.94a14.52,14.52,0,0,1-14.52-14.52h0V351.29Z"/>
+    <path id="overskrift" data-name="overskrift" class="HTML_placeholder cls-3"  d="M820,310.46h223.78a8.6,8.6,0,0,1,8.59,8.59v31.1h-241v-31.1A8.6,8.6,0,0,1,820,310.46Z"/>
+    <g id="connection-line4">
+      <polyline class="cls-6" points="662.24 468.95 753.52 335.79 813.47 317.9"/>
+    </g>
+  </g>
+  <g id="emne-5">
+    <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5"  d="M52.42,543.51h241V642.4a14.52,14.52,0,0,1-14.52,14.52H66.94A14.52,14.52,0,0,1,52.42,642.4h0V543.51Z"/>
+    <path id="overskrift" data-name="overskrift" class="HTML_placeholder cls-3"  d="M61,501.81H284.79a8.6,8.6,0,0,1,8.59,8.59h0v31.1h-241V510.4A8.6,8.6,0,0,1,61,501.81Z"/>
+    <g id="connection-line5">
+      <polyline class="cls-7" points="658.74 569.55 463.63 472.31 291.98 513.42"/>
+    </g>
+  </g>
+  <g id="emne-6">
+    <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5" d="M1061.42,526.86h240.94v98.87a14.52,14.52,0,0,1-14.52,14.52H1075.93a14.52,14.52,0,0,1-14.52-14.52h0V526.86Z"/>
+    <path id="overskrift" data-name="overskrift" class="HTML_placeholder cls-3"  d="M1070,485.67h223.79a8.6,8.6,0,0,1,8.59,8.59V525.4h-241V494.3a8.6,8.6,0,0,1,8.55-8.63Z"/>
+    <g id="connection-line6">
+      <polyline class="cls-8" points="664.24 677.95 780.08 549.68 1061.42 501.81"/>
+    </g>
+  </g>
+  <g id="emne-7">
+    <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5"  d="M292,722.4H532.93v98.87a14.52,14.52,0,0,1-14.52,14.52H306.5A14.52,14.52,0,0,1,292,821.27h0V722.4Z"/>
+    <path id="overskrift" data-name="overskrift" class="HTML_placeholder cls-3" d="M300.57,680.31H524.34a8.6,8.6,0,0,1,8.59,8.59h0V720H292V688.9a8.6,8.6,0,0,1,8.59-8.59Z"/>
+    <g id="connection-line7">
+      <polyline class="cls-9" points="658.74 782.45 576.66 694.2 534.93 694.2"/>
+    </g>
+  </g>
+  <g id="emne-8">
+    <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5" d="M852.47,749h240.94v98.87a14.52,14.52,0,0,1-14.48,14.56H867a14.52,14.52,0,0,1-14.52-14.52h0V749Z"/>
+    <path id="overskrift" data-name="overskrift" class="HTML_placeholder cls-3" d="M861.06,707.81h223.73a8.6,8.6,0,0,1,8.59,8.59v31.1H852.47V716.4a8.6,8.6,0,0,1,8.59-8.59Z"/>
+    <g id="connection-line8">
+      <polyline class="cls-10" points="664.79 886.95 755.67 741.18 852.47 727.65"/>
+    </g>
+  </g>
+  <g id="emne-9">
+    <path id="overskrift" data-name="overskrift" class="HTML_placeholder cls-3"  d="M151.45,899.57H375.22a8.6,8.6,0,0,1,8.59,8.59v31.1H142.86v-31.1A8.6,8.6,0,0,1,151.45,899.57Z"/>
+    <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5" d="M142.86,940.71H383.79v98.87a14.52,14.52,0,0,1-14.52,14.52H157.38a14.52,14.52,0,0,1-14.52-14.52h0V940.71Z"/>
+    <g id="connection-line-8">
+      <polyline class="cls-11" points="657.51 987.27 581.76 915.73 383.8 917.47"/>
+    </g>
+  </g>
+  <g id="emne-10">
+    <g id="connection-line-9">
+      <polyline class="cls-12" points="662.24 1095.95 868.08 986.43 959.87 981.29"/>
+    </g>
+    <path id="overskrift" data-name="overskrift" class="HTML_placeholder cls-3" d="M968.45,967.4h223.77a8.6,8.6,0,0,1,8.59,8.59v31.1H959.87V976A8.59,8.59,0,0,1,968.45,967.4Z"/>
+    <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5" d="M959.87,1008.6h240.92v98.87a14.52,14.52,0,0,1-14.52,14.52H974.38a14.52,14.52,0,0,1-14.52-14.52h0V1008.6Z"/>
+  </g>
+  <g id="timeline">
+    <line class="cls-14" x1="659.55" y1="43.61" x2="659.55" y2="1181.2"/>
+    <g id="Bullets">
+      <rect class="cls-15" x="634" y="886.95" width="54.39" height="25.05" rx="2.88"/>
+      <rect class="cls-15" x="634" y="782.45" width="54.39" height="25.05" rx="2.88"/>
+      <rect class="cls-15" x="634.59" y="677.95" width="54.39" height="25.05" rx="2.88"/>
+      <rect class="cls-15" x="634.75" y="573.45" width="54.39" height="25.05" rx="2.88"/>
+      <rect class="cls-15" x="633.91" y="468.95" width="54.39" height="25.05" rx="2.88"/>
+      <rect class="cls-15" x="633.59" y="364.45" width="54.39" height="25.05" rx="2.88"/>
+      <rect class="cls-15" x="633.54" y="991.45" width="54.39" height="25.05" rx="2.88"/>
+      <rect class="cls-15" x="632.05" y="259.95" width="54.39" height="25.05" rx="2.88"/>
+      <rect class="cls-15" x="633.59" y="1095.94" width="54.39" height="25.05" rx="2.88"/>
+      <rect class="cls-15" x="633.91" y="155.45" width="54.39" height="25.05" rx="2.88"/>
+    </g>
+  </g>
+</svg>
